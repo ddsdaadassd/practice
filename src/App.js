@@ -11,6 +11,7 @@ function App() {
         <Route path='/edit' element={<div>수정페이지</div>} />
 
       </Routes>
+      <div>푸터작업</div>
     </div>
   );
 }
