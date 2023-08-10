@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# gitignore 사이트있음
+# .txt : txt확장자를 가진건 무시
+# !abc.txt : abc.txt는 push함
+# /abc : 기존 경로에서 abc폴더에 있는건 전부 무시
+# abc/*.txt : ??? 못 적음
